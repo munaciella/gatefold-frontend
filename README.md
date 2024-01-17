@@ -2,7 +2,7 @@
 
 # Wax Frontend
 
-Welcome to Wax, a social media platform for music enthusiasts! This React Native app, built with Expo and Typescript and styled with Nativewind, allows users to explore, rate, and review songs and albums from around the world. The app utilises Spotify-API to interact with our backend to fetch the albums information. 
+Welcome to Wax, a social media platform for music enthusiasts! This React Native app, built with Expo and Typescript and styled with Nativewind, allows users to explore, rate, and review songs and albums from around the world. The app utilises Spotify-API to interact with our backend to fetch the music information. 
 
 <div align="center">
   <img src="https://github.com/royr5/gatefold-frontend/assets/73461138/74a4741f-35bd-41e3-bd1f-5ebb644ae361" alt="RPReplay_Final1704990111">
